@@ -1,0 +1,5 @@
+C:\Users\sawye\OneDrive\Desktop\Repos\BreweryAPITEST\BreweryAPITEST\obj\Debug\net6.0\BreweryAPITEST.csproj.AssemblyReference.cache
+C:\Users\sawye\OneDrive\Desktop\Repos\BreweryAPITEST\BreweryAPITEST\obj\Debug\net6.0\BreweryAPITEST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sawye\OneDrive\Desktop\Repos\BreweryAPITEST\BreweryAPITEST\obj\Debug\net6.0\BreweryAPITEST.AssemblyInfoInputs.cache
+C:\Users\sawye\OneDrive\Desktop\Repos\BreweryAPITEST\BreweryAPITEST\obj\Debug\net6.0\BreweryAPITEST.AssemblyInfo.cs
+C:\Users\sawye\OneDrive\Desktop\Repos\BreweryAPITEST\BreweryAPITEST\obj\Debug\net6.0\BreweryAPITEST.csproj.CoreCompileInputs.cache
